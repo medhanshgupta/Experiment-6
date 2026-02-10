@@ -10,22 +10,24 @@ Logical operators (and, or, not) to combine multiple conditions.
 Relational operators (>, <, >=, <=, ==, !=) to compare values.   
 The if-elif-else ladder is used when multiple conditions need to be checked.   
 
-## Algorithm:
-## Algorithm:
+## Algorithm:   
+
     A)
     1)Start
     2)Input a using a = int(input("Enter a number:"))
     3)If a > 0, print "Number is positive"
     4)Else if a < 0, print "Number is negative"
     5)Else, print "Number is zero"
-    6)Stop
-    B)
+    6)Stop     
+    
+    B)   
     1)Start
     2)Input a using a = int(input("Enter a number:"))
     3)If a % 2 == 0, print "Number is Even"
     4)Else, print "Number is Odd"
-    5)Stop
-    C)
+    5)Stop    
+    
+    C)   
     Start
     1)Input a using a = int(input("Enter a number a:"))
     2)Input b using b = int(input("Enter a number b:"))
@@ -33,8 +35,9 @@ The if-elif-else ladder is used when multiple conditions need to be checked.
     4)If a > b and a > c, print "a is the greatest number"
     5)Else if b > a and b > c, print "b is the greatest number"
     6)Else, print "c is the greatest number"
-    7)Stop
-    D)
+    7)Stop     
+    
+    D)   
     1)Start
     2)Input subject using subject = int(input("Enter a subject:"))
     3)If subject >= 90, print "Grade A"
@@ -42,14 +45,16 @@ The if-elif-else ladder is used when multiple conditions need to be checked.
     5)Else if subject >= 60, print "Grade C"
     6)Else if subject >= 40, print "Grade D"
     7)Else, print "Fail"
-    8)Stop
-    E)
+    8)Stop     
+    
+    E)   
     1)Start
     2)Input year using year = int(input("Enter a year:"))
     3)If (year % 4 == 0 and year % 100 != 0) or year % 400 == 0, print "Leap year"
     4)Else, print "Not a leap year"
-    5)Stop
-    F)
+    5)Stop    
+    
+    F)   
     Start
     1)Input Date using Date = int(input("Enter a date:"))
     2)Input Month using Month = int(input("Enter a month:"))
