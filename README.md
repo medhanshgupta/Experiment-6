@@ -142,4 +142,4 @@ Split is used for break a single string into a list of smaller strings (substrin
     Step 7: Stop
 
 ## Conclusion:
-Hence the conditional statements were successfully implemented in python and operations were dont using them.
+Hence the conditional statements were successfully implemented in python and operations were done using them.
